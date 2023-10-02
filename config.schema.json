@@ -9,7 +9,22 @@
         "title": "Name",
         "type": "string",
         "required": true,
-        "default": "Alexa as a homepod"
+        "default": "insert name"
+         "alexaserialnumber": {
+        "title": "Serial number",
+        "type": "string",
+        "required": true,
+        "default": "Serial number"
+           "amazonemail": {
+        "title": "Email",
+        "type": "string",
+        "required": true,
+        "default": "Email"
+                  "amazonpassword": {
+        "title": "Password",
+        "type": "string",
+        "required": true,
+        "default": "Password"
       }
     }
   }
