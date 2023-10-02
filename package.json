@@ -1,5 +1,5 @@
 {
-  "private": true,
+  "private": false,
   "displayName": "Plugin Test",
   "name": "homebridge-plugin-test",
   "version": "1.0.0",
