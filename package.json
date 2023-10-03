@@ -1,6 +1,6 @@
 {
   "private": false,
-  "displayName": "Plugin Test",
+  "displayName": "Kitty's Homebridge Plugin Test",
   "name": "homebridge-plugin-test",
   "version": "1.0.0",
   "description": "A short description about what your plugin does.",
